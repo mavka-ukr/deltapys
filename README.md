@@ -2,4 +2,4 @@
 
 "8-бітний" шрифт для Кодування Д (в розробці).
 
-<img style="width: 100%" src="https://github.com/user-attachments/assets/9e0688aa-c286-4810-862f-f74571bf5138">
+<img style="width: 100%" src="https://github.com/user-attachments/assets/a2cf5096-2f3f-492e-98d7-c077984a9c80">
